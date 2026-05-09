@@ -19,7 +19,7 @@ Para alimentar o NotebookLM com dados técnicos e regras de negócio sólidas pa
 
 1. **Guia Oficial de Prompt Engineering (OpenAI)**: Documentação técnica com as melhores práticas para guiar modelos de linguagem e evitar alucinações.
 2. **Documentação da WhatsApp Cloud API (Meta)**: Regras estruturais e de integração para conectar o assistente virtual à mensageria oficial.
-3. **Guia de Qualificação de Leads (HubSpot)**: Material focado em negócios para instruir a IA sobre quais critérios e perguntas utilizar para qualificar um contato adequadamente.
+3. **Guia de Qualificação de Leads (RD Station)**: Material focado em negócios para instruir a IA sobre os critérios de "Lead Scoring", garantindo que o agente saiba identificar e classificar a intenção do usuário antes do transbordo para um humano.
 
 ---
 
